@@ -31,6 +31,10 @@ a:hover {
   color:#606c38;
 }
 
+ul {
+  padding: 0;
+}
+
 
 .container {
   width: 600px;
